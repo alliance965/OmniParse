@@ -247,6 +247,7 @@ Commercial use requires authorization.
 
 
 咨询群：
-https://github.com/user-attachments/assets/46991d2a-c736-46b9-86fd-18fe1a2709db
+
+<img width="464" height="720" alt="349481b7ac7942db85f29c14745a264d" src="https://github.com/user-attachments/assets/e5a6031e-72d8-4da8-8100-2fcb2bcc2997" />
 
 
