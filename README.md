@@ -213,6 +213,10 @@ public class LinkParseResultDTO {
 }
 
 
+<img width="3231" height="1728" alt="image" src="https://github.com/user-attachments/assets/75b74020-eb33-468c-b82c-fbb0b0d8d00a" />
+
+
+
 🧩 典型应用场景
 
 联盟转链系统
